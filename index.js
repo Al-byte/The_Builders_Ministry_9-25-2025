@@ -52,9 +52,9 @@ $(document).ready(function() {
             }, 1000);
     });
 
-    $("#nav-articles").click(function(){            
+    $("#nav-teachings").click(function(){            
         $('html, body').animate({
-                scrollTop: $("#articles").position().top-100
+                scrollTop: $("#teachings").position().top-100
             }, 1000);
     });
 

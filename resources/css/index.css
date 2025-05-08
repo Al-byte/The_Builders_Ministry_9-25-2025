@@ -80,6 +80,10 @@ header .align-items-center {
     min-height: 100vh;
 }
 
+.index_faith {
+  background-color: white;
+}
+
 .index_info {
   background-color: lightgrey;
 }
@@ -188,6 +192,10 @@ header .align-items-center {
 
   p {
     line-height: 1.8;
+  }
+
+  .accreditation {
+    font-size: 14px;
   }
 
   figcaption {
