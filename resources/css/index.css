@@ -64,6 +64,42 @@ html {
     min-height: 100vh; 
 }
 
+.written_sermon_banner {
+  min-height: 40vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
+
+#writ_ser_ban_1 {
+  background-image: url('./psalm_40_and_testimony.jpg');
+  background-position-y: 50%;
+}
+
+#writ_ser_ban_2 {
+  background-image: url('./loving_self_through_jesus.jpg');
+  background-position-y: 60%;
+}
+
+#writ_ser_ban_3 {
+  background-image: url('./heart_of_thanksgiving.jpg');
+  background-position-y: 40%;
+}
+
+#writ_ser_ban_4 {
+  background-image: url('./judgement_of_the_church.jpg');
+  background-position-y: 15%;
+}
+
+#writ_ser_ban_5 {
+  background-image: url('./power_in_the_blood.jpg');
+  background-position-y: 10%;
+}
+
+#writ_ser_ban_6 {
+  background-image: url('./walking_in_holiness.jpg');
+  background-position-y: 30%;
+}
 
 header .align-items-center { 
   width: 100%; 
@@ -119,7 +155,7 @@ header .align-items-center {
 
 .bible_verse {
     color: white;
-    margin-top: -100px;
+    margin-top: -125px;
 }
 
 
