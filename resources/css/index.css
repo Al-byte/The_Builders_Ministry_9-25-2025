@@ -64,7 +64,7 @@ html {
     min-height: 100vh; 
 }
 
-.written_sermon_banner {
+.written_sermon_banner, .teaching_banner {
   min-height: 40vh;
   background-size: cover;
   background-repeat: no-repeat;
@@ -100,6 +100,77 @@ html {
   background-image: url('./walking_in_holiness.jpg');
   background-position-y: 30%;
 }
+
+/*Teachings Start*/
+
+#teach_ban_1 {
+  background-image: url('./2_peter_study.jpg');
+  background-position-y: 45%;
+}
+
+#teach_ban_2 {
+  background-image: url('./book_of_jude.jpg');
+  background-position-y: 45%;
+}
+
+#teach_ban_3 {
+  background-image: url('./bright_morning_star.jpg');
+  background-position-y: 45%;
+}
+
+#teach_ban_4 {
+  background-image: url('./gospel_of_john_8.jpg');
+  background-position-y: 45%;
+}
+
+#teach_ban_5 {
+  background-image: url('./mbc_notes_intro_book_of_acts.jpg');
+  background-position-y: 45%;
+}
+
+#teach_ban_6 {
+  background-image: url('./jehovah_jireh_study_on_gods_name.jpg');
+  background-position-y: 44%;
+}
+
+#teach_ban_7 {
+  background-image: url('./lion_of_tribe_of_judah.jpg');
+  background-position-y: 30%;
+}
+
+#teach_ban_8 {
+  background-image: url('./psalm_37.jpg');
+  background-position-y: 62%;
+}
+
+#teach_ban_9 {
+  background-image: url('./psalm_96.jpg');
+  background-position-y: 60%;
+}
+
+#teach_ban_10 {
+  background-image: url('./psalm_103.jpg');
+  background-position-y: 5%;
+}
+
+#teach_ban_11 {
+  background-image: url('./ruling_on_the_new_earth.jpg');
+  background-position-y: 30%;
+}
+
+#teach_ban_12 {
+  background-image: url('./study_on_1_peter.jpg');
+  background-position-y: 45%;
+}
+
+#teach_ban_13 {
+  background-image: url('./what_other_religions_think_about_heaven.jpg');
+  background-position-y: 17%;
+}
+
+
+
+/*Teachings Stop*/
 
 header .align-items-center { 
   width: 100%; 
