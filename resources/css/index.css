@@ -41,6 +41,8 @@
     text-decoration: none !important;
   }
 
+
+
   /* Hide scrollbar for Chrome, Safari and Opera */
 html::-webkit-scrollbar {
   display: none;
@@ -255,7 +257,7 @@ header .align-items-center {
     font-weight: 600;
   }
 
-  nav li a:hover, a:hover {
+  nav li a:hover, a:hover, .nav-link:hover {
 
     color: goldenrod !important;
     transition: 0.3s linear;
