@@ -330,6 +330,10 @@ iframe {
   height: 100vh;
 }
 
+.resource_card, .book_card {
+  height: 100%;
+}
+
 footer {
     
     width: 100%;
@@ -513,9 +517,7 @@ footer {
   }
   
   @media (min-width: 768px) and (max-width: 991.98px) { 
-    .navbar-brand {
-      display: none !important;
-    }
+
   
     header .align-items-center { 
       width: 100%; 
@@ -531,9 +533,7 @@ footer {
   
   @media (min-width: 992px) and (max-width: 1199.98px) { 
    
-    .navbar-brand {
-      display: none;
-    }
+
     
     header .align-items-center { 
       width: 100%; 
@@ -607,6 +607,9 @@ footer {
   }
  
 }
+
+
+
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 

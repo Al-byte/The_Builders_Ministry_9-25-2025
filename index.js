@@ -1,5 +1,14 @@
 $(document).ready(function() {    
     
+    $(window).on('load',function(){
+    var delayMs = 500; // delay in milliseconds
+    
+    setTimeout(function(){
+        $('#introModal').modal('show');
+    }, delayMs);
+    });
+    
+
     $("#work-btn").click(function(){            
         $('html, body').animate({
                 scrollTop: $("#shop").position().top-50
