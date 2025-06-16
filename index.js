@@ -1,5 +1,5 @@
 $(document).ready(function() {    
-    
+    // On window load, wait 500ms, then show modal only if flag is false
     $(window).on('load',function(){
     var delayMs = 500; // delay in milliseconds
     
