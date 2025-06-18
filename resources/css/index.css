@@ -66,6 +66,17 @@ html {
     min-height: 100vh; 
 }
 
+.written_section_heading {
+  margin: 60px 0 15px 0;
+  text-decoration: underline;
+}
+
+.written_scripture {
+  text-align: left;
+  font-weight: bold;
+  margin: 45px 0;
+}
+
 .written_sermon_banner, .teaching_banner {
   min-height: 40vh;
   background-size: cover;
